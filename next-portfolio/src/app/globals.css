@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+:root {
+  --bg-cream: #FAF4EB;
+  --bg-card: #FFFFFF;
+  --primary-orange: #F97316;
+  --primary-dark-orange: #EA580C;
+  --text-dark: #2D241E;
+  --text-muted: #6B5E54;
+  --border-beige: #EBDCCB;
+  --border-orange: #FED7AA;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-cream);
+  color: var(--text-dark);
+  font-family: 'Be Vietnam Pro', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Marquee infinite scroll */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: inline-flex;
+  white-space: nowrap;
+  animation: marquee 30s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}

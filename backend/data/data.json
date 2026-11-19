@@ -1,0 +1,195 @@
+{
+  "profile": {
+    "name": "NGUYỄN THỊ HÀ GIANG",
+    "title": "Digital Marketing • Creative • Content Lead",
+    "avatarHero": "images/hagiang_floral_dress.jpg",
+    "avatarIntro1": "images/hagiang_suit.jpg",
+    "avatarIntro2": "images/hagiang_floral_dress.jpg",
+    "avatarPolaroid1": "images/hagiang_suit.jpg",
+    "avatarPolaroid2": "images/hagiang_conical_hat.jpg",
+    "avatarFooter": "images/hagiang_conical_hat.jpg",
+    "bannerText": "DIGITAL MARKETING • TỐI ƯU CHIẾN DỊCH QUẢNG CÁO • XÂY DỰNG THƯƠNG HIỆU DOANH NGHIỆP • NỘI DUNG SÁNG TẠO ĐA KÊNH",
+    "phone": "0335.794.889",
+    "email": "nguyenthihagiang@gmail.com",
+    "facebook": "fb.com/nguyenthihagiang",
+    "tiktok": "@hagiangdigital",
+    "instagram": "@hagiang.work",
+    "address": "Hà Nội / TP. Hồ Chí Minh"
+  },
+  "intro": {
+    "aboutMe": "Tôi là một người đam mê sáng tạo, luôn kiên trì học hỏi và phát triển bản thân mỗi ngày. Tôi luôn tìm tòi, áp dụng những tư duy Marketing mới mẻ để mang lại giá trị thực tế cho thương hiệu và tăng trưởng doanh số bền vững.",
+    "highlights": [
+      "Có nhiều năm kinh nghiệm trong các mảng tiếp thị số và truyền thông thương hiệu.",
+      "Thực hiện thành công nhiều dự án quy mô vừa và lớn với kết quả ấn tượng.",
+      "Cung cách làm việc: Tỉ mỉ, kỷ luật, trách nhiệm và cam kết cao.",
+      "Phong cách Marketing: Hiện đại, sáng tạo, hướng đến trải nghiệm khách hàng và ROI tối ưu."
+    ],
+    "workStyleTitle": "Phong cách sống & Làm việc",
+    "workStyle": "Hình ảnh yêu thích: Năng động, giản dị, lịch sự, thích hợp cho các buổi gặp mặt với đối tác hay những buổi dã ngoại năng lượng. Luôn duy trì tinh thần cầu tiến, học hỏi không ngừng để mang năng lượng tích cực vào mọi dự án.",
+    "motto": "Sáng tạo là chìa khóa mở ra tiềm năng vô hạn. Thành công đến từ sự kiên trì, đam mê và tử tế trong từng hành động."
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "CHIẾN LƯỢC NỘI DUNG",
+      "icon": "fa-pen-nib",
+      "tag": "CONTENT",
+      "desc": "Xây dựng định hướng nội dung đa kênh (Facebook, TikTok, Website, Blog) chạm đúng tâm lý khách hàng mục tiêu."
+    },
+    {
+      "id": 2,
+      "title": "CHIẾN DỊCH QUẢNG CÁO",
+      "icon": "fa-bullhorn",
+      "tag": "ADS / SALE",
+      "desc": "Tối ưu chi phí quảng cáo Facebook Ads, Google Ads, TikTok Ads mang lại chuyển đổi đơn hàng và lead chất lượng cao."
+    },
+    {
+      "id": 3,
+      "title": "SEO & CONTENT SEARCH",
+      "icon": "fa-magnifying-glass-chart",
+      "tag": "SEO",
+      "desc": "Nghiên cứu từ khóa, tối ưu Onpage/Offpage và xây dựng chuỗi bài viết chuẩn SEO đưa website lên top Google bền vững."
+    },
+    {
+      "id": 4,
+      "title": "BRAND IDENTITY",
+      "icon": "fa-palette",
+      "tag": "BRANDING",
+      "desc": "Định vị thương hiệu, sáng tạo slogan, thông điệp truyền thông và bộ quy chuẩn nhận diện thương hiệu chuyên nghiệp."
+    },
+    {
+      "id": 5,
+      "title": "SOCIAL MEDIA GROWTH",
+      "icon": "fa-rocket",
+      "tag": "GROWTH",
+      "desc": "Phát triển kênh mạng xã hội từ con số 0: xây dựng concept, kịch bản video ngắn triệu view và tương tác tự nhiên."
+    },
+    {
+      "id": 6,
+      "title": "TƯ VẤN & BÁO CÁO",
+      "icon": "fa-chart-pie",
+      "tag": "ANALYTICS",
+      "desc": "Phân tích số liệu thị trường, đo lường hiệu quả chuyển đổi (ROI/ROAS) và đề xuất giải pháp tiếp thị tối ưu nhất."
+    }
+  ],
+  "education": {
+    "title": "Học vấn",
+    "degree": "Cử nhân Quản trị Kinh doanh / Marketing",
+    "school": "Đại học Kinh tế Quốc dân (NEU)",
+    "certs": [
+      "Chứng chỉ Google Ads Search & Display Certification",
+      "Chứng chỉ Facebook Certified Digital Marketing Associate",
+      "Chứng chỉ HubSpot Content Marketing Certified",
+      "Chứng chỉ SEO Master & Data Analytics"
+    ]
+  },
+  "experience": [
+    {
+      "year": "2024 - Nay",
+      "role": "Senior Digital Marketing Specialist",
+      "company": "Agency Truyền thông & Quảng cáo Sáng tạo",
+      "desc": "Phụ trách lập kế hoạch và quản lý ngân sách quảng cáo cho hơn 15 nhãn hàng tiêu dùng, F&B và thẩm mỹ."
+    },
+    {
+      "year": "2022 - 2024",
+      "role": "Content & Campaign Lead",
+      "company": "Tập đoàn Bán lẻ & Thương mại Điện tử",
+      "desc": "Dẫn dắt đội ngũ 6 nhân sự Content Creator, tăng trưởng doanh số kênh mạng xã hội 180% so với cùng kỳ."
+    },
+    {
+      "year": "2020 - 2022",
+      "role": "Marketing Executive",
+      "company": "Công ty Cổ phần Dịch vụ Du lịch & Nghỉ dưỡng",
+      "desc": "Triển khai chiến dịch truyền thông đa kênh, tổ chức sự kiện kích cầu du lịch trực tuyến thu hút hơn 50.000 lượt tương tác."
+    }
+  ],
+  "skills": {
+    "softSkills": [
+      { "name": "Giao tiếp & Thuyết trình", "percent": 95 },
+      { "name": "Làm việc nhóm & Quản lý", "percent": 90 },
+      { "name": "Tư duy phản biện & Sáng tạo", "percent": 95 },
+      { "name": "Quản lý thời gian & Dự án", "percent": 88 }
+    ],
+    "hardSkills": [
+      { "name": "Digital Marketing Strategy", "percent": 95 },
+      { "name": "Facebook & TikTok Ads", "percent": 92 },
+      { "name": "SEO & Content Marketing", "percent": 90 },
+      { "name": "Google Ads & Analytics (GA4)", "percent": 88 },
+      { "name": "Copywriting & Storytelling", "percent": 96 },
+      { "name": "Canva, Photoshop & Premiere", "percent": 85 }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "DỰ ÁN GIƯỜNG TỦ GỖ",
+      "category": "Nội thất gỗ",
+      "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=700&q=80",
+      "mockupBadge": "GIƯỜNG TỦ GỖ",
+      "desc": "Chiến dịch xây dựng website và thương hiệu xưởng mộc nội thất gỗ cao cấp, tối ưu trải nghiệm đặt hàng và tư vấn trực tiếp.",
+      "views": "25.000",
+      "conversions": "1.250 đơn"
+    },
+    {
+      "id": 2,
+      "title": "DỰ ÁN SON MÔI NARS",
+      "category": "Mỹ phẩm",
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=700&q=80",
+      "mockupBadge": "SON MÔI NARS",
+      "desc": "Chiến dịch quảng bá ra mắt dòng son môi thời thượng, kết hợp viral content và lookbook beauty thu hút hàng triệu lượt xem.",
+      "views": "72.000",
+      "conversions": "5.600 đơn"
+    },
+    {
+      "id": 3,
+      "title": "DỰ ÁN GỘI ĐẦU DƯỠNG SINH",
+      "category": "Spa & Dưỡng sinh",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=700&q=80",
+      "mockupBadge": "GỘI ĐẦU DƯỠNG SINH",
+      "desc": "Chiến dịch truyền thông dịch vụ gội đầu dưỡng sinh thảo dược trị liệu, tăng 70% lượng khách đặt lịch hẹn vào dịp cuối tuần.",
+      "views": "45.000",
+      "conversions": "1.450 booking"
+    },
+    {
+      "id": 4,
+      "title": "DỰ ÁN NHA KHOA SMILE",
+      "category": "Nha khoa & Y tế",
+      "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=700&q=80",
+      "mockupBadge": "NHA KHOA SMILE",
+      "desc": "Xây dựng nhận diện thương hiệu và phễu tư vấn niềng răng - thẩm mỹ răng sứ chuẩn y khoa uy tín và tận tâm.",
+      "views": "85.000",
+      "conversions": "1.850 khách"
+    },
+    {
+      "id": 5,
+      "title": "DỰ ÁN ĐÈN LỒNG HỘI AN",
+      "category": "Du lịch & Văn hóa",
+      "image": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=700&q=80",
+      "mockupBadge": "ĐÈN LỒNG HỘI AN",
+      "desc": "Bộ ảnh nghệ thuật và chiến dịch quảng bá trải nghiệm du lịch đêm phố cổ Hội An, tạo làn sóng chia sẻ rực rỡ mạng xã hội.",
+      "views": "110.000",
+      "conversions": "8.200 tour"
+    },
+    {
+      "id": 6,
+      "title": "DỰ ÁN SPA VÀ DƯỠNG THỂ",
+      "category": "Aesthetic & Spa",
+      "image": "https://images.unsplash.com/photo-1594552072238-b8a33785b261?auto=format&fit=crop&w=700&q=80",
+      "mockupBadge": "RELAX TODAY, SHINE TOMORROW",
+      "desc": "Định vị thương hiệu Viện chăm sóc sắc đẹp và dưỡng thể với thông điệp truyền cảm hứng 'Relax today, shine tomorrow'.",
+      "views": "68.000",
+      "conversions": "960 gói liệu trình"
+    },
+    {
+      "id": 7,
+      "title": "DỰ ÁN KHÁC",
+      "category": "Đang cập nhật",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=700&q=80",
+      "mockupBadge": "DỰ ÁN KHÁC",
+      "desc": "Khung dự án sẵn sàng bổ sung các chiến dịch truyền thông đa kênh, sáng tạo nội dung hoặc sản phẩm mới.",
+      "views": "---",
+      "conversions": "---"
+    }
+  ],
+  "contactMessages": []
+}
