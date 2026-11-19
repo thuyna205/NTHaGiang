@@ -1,7 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  output: "export",
+  basePath: "/NTHaGiang",
+  assetPrefix: "/NTHaGiang/",
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",
