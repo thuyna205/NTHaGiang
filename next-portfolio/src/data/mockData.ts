@@ -31,17 +31,19 @@ export interface SkillItem {
   percent: number;
 }
 
+const publicImage = (fileName: string) => `/NTHaGiang/images/${fileName}`;
+
 export const portfolioData = {
   profile: {
     name: "NGUYỄN THỊ HÀ GIANG",
     title: "Digital Marketing • Planner • Content",
     heroHeading: "XIN CHÀO MÌNH LÀ",
-    avatarHero: "/images/hagiang_floral_dress.jpg",
-    avatarPolaroid1: "/images/hagiang_suit.jpg",
-    avatarPolaroid2: "/images/hagiang_conical_hat.jpg",
-    avatarAbout1: "/images/hagiang_suit.jpg",
-    avatarAbout2: "/images/hagiang_floral_dress.jpg",
-    avatarFooter: "/images/hagiang_conical_hat.jpg",
+    avatarHero: publicImage("hagiang_floral_dress.jpg"),
+    avatarPolaroid1: publicImage("hagiang_suit.jpg"),
+    avatarPolaroid2: publicImage("hagiang_conical_hat.jpg"),
+    avatarAbout1: publicImage("hagiang_suit.jpg"),
+    avatarAbout2: publicImage("hagiang_floral_dress.jpg"),
+    avatarFooter: publicImage("hagiang_conical_hat.jpg"),
     phone: "0335.794.889",
     email: "nguyenthihagiang@gmail.com",
     facebook: "https://www.facebook.com/share/1F7NzKZEmW/?mibextid=wwXIfr",
@@ -75,42 +77,42 @@ export const portfolioData = {
       id: 1,
       title: "BRANDING & CREATIVE",
       tag: "BRANDING",
-      iconImage: "/images/icon_branding.png",
+      iconImage: publicImage("icon_branding.png"),
       desc: "Định hướng hình ảnh, thông điệp thương hiệu và phối hợp sản xuất hình ảnh, video truyền thông."
     },
     {
       id: 2,
       title: "SALE",
       tag: "SALE",
-      iconImage: "/images/icon_sale.png",
+      iconImage: publicImage("icon_sale.png"),
       desc: "Tư vấn, tiếp cận khách hàng và thúc đẩy doanh số."
     },
     {
       id: 3,
       title: "WEBSITE & MAPS",
       tag: "SEO / MAPS",
-      iconImage: "/images/icon_maps.png",
+      iconImage: publicImage("icon_maps.png"),
       desc: "Tối ưu website và Google Maps để tăng khả năng hiển thị trên Google, giúp khách hàng dễ dàng tìm thấy doanh nghiệp."
     },
     {
       id: 4,
       title: "STORYTELLER",
       tag: "CONTENT",
-      iconImage: "/images/icon_storyteller.png",
+      iconImage: publicImage("icon_storyteller.png"),
       desc: "Xây dựng câu chuyện và truyền tải thông điệp thương hiệu để thu hút, tạo cảm xúc và kết nối với khách hàng."
     },
     {
       id: 5,
       title: "DIGITAL ADVERTISING",
       tag: "ADS",
-      iconImage: "/images/icon_digital_ads.png",
+      iconImage: publicImage("icon_digital_ads.png"),
       desc: "Lập kế hoạch quảng cáo, theo dõi hiệu suất chiến dịch và đề xuất tối ưu theo mục tiêu."
     },
     {
       id: 6,
       title: "DIGITAL MARKETING STRATEGY",
       tag: "STRATEGY",
-      iconImage: "/images/icon_strategy.png",
+      iconImage: publicImage("icon_strategy.png"),
       desc: "Nghiên cứu thị trường, xác định khách hàng mục tiêu, xây dựng chiến lược"
     }
   ],
@@ -164,7 +166,7 @@ export const portfolioData = {
       id: 1,
       title: "DỰ ÁN UNITY FURNITURE",
       category: "Nội thất gỗ",
-      thumbnail: "/images/proj_1.jpg",
+      thumbnail: publicImage("proj_1.jpg"),
       description: "Project Manager | Lên sale và dự án, Leader team Marketing, Account Manager, Content Writer, Xây dựng thương hiệu, Thiết kế website.",
       reach: "Chi tiết",
       conversion: "Liên hệ ngay",
@@ -174,7 +176,7 @@ export const portfolioData = {
       id: 2,
       title: "DỰ ÁN KHOA TRANG SỨC",
       category: "Trang sức",
-      thumbnail: "/images/proj_2.jpg",
+      thumbnail: publicImage("proj_2.jpg"),
       description: "Project Manager | Lên sale và dự án, Leader team Marketing, Account Manager, Content Writer, Xây dựng thương hiệu, Thiết kế website.",
       reach: "Chi tiết",
       conversion: "Liên hệ ngay",
@@ -184,7 +186,7 @@ export const portfolioData = {
       id: 3,
       title: "DỰ ÁN PAM SPA SORA",
       category: "Spa & Dưỡng sinh",
-      thumbnail: "/images/proj_3.jpg",
+      thumbnail: publicImage("proj_3.jpg"),
       description: "Project Manager | Lên sale và dự án, Leader team Marketing, Account Manager, Content Writer, Xây dựng thương hiệu, Thiết kế website.",
       reach: "Chi tiết",
       conversion: "Liên hệ ngay",
@@ -194,7 +196,7 @@ export const portfolioData = {
       id: 4,
       title: "DỰ ÁN THÀNH DANH",
       category: "Khách sạn",
-      thumbnail: "/images/proj_4.jpg",
+      thumbnail: publicImage("proj_4.jpg"),
       description: "Project Manager | Lên sale và dự án, Leader team Marketing, Account Manager, Content Writer, Xây dựng thương hiệu, Thiết kế website.",
       reach: "Chi tiết",
       conversion: "Liên hệ ngay",
@@ -204,7 +206,7 @@ export const portfolioData = {
       id: 5,
       title: "DỰ ÁN BEYOND HỘI AN",
       category: "Du lịch & Văn hóa",
-      thumbnail: "/images/proj_5.jpg",
+      thumbnail: publicImage("proj_5.jpg"),
       description: "Project Manager | Lên sale và dự án, Leader team Marketing, Account Manager, Content Writer, Xây dựng thương hiệu, Thiết kế website.",
       reach: "Chi tiết",
       conversion: "Liên hệ ngay",
@@ -214,7 +216,7 @@ export const portfolioData = {
       id: 6,
       title: "DỰ ÁN GREEN HILLS SPA",
       category: "Aesthetic & Spa",
-      thumbnail: "/images/proj_6.jpg",
+      thumbnail: publicImage("proj_6.jpg"),
       description: "Project Manager | Lên sale và dự án, Leader team Marketing, Account Manager, Content Writer, Xây dựng thương hiệu, Thiết kế website.",
       reach: "Chi tiết",
       conversion: "Liên hệ ngay",
@@ -224,7 +226,7 @@ export const portfolioData = {
       id: 7,
       title: "DỰ ÁN ZINPILOT",
       category: "Du lịch & Công nghệ",
-      thumbnail: "/images/proj_zinpilot.jpg",
+      thumbnail: publicImage("proj_zinpilot.jpg"),
       description: "Project Manager | Lên sale và dự án, Leader team Marketing, Account Manager, Content Writer, Xây dựng thương hiệu, Thiết kế website.",
       reach: "Chi tiết",
       conversion: "Liên hệ ngay"
